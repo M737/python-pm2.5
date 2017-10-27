@@ -19,4 +19,6 @@
 
 
 效果如图：
-![Alt text](/path/to/img.jpg)
+
+
+![Alt text](https://mmbiz.qpic.cn/mmbiz_gif/LibleYQ2vHMo929zGqgoicVY64uxKQPoeF5aG0h18HUQeicrMEw9zLfjwoIWNatEaiaP4e7NPfETDONpKb7bnymXAg/0?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1)
