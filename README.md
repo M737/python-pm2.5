@@ -19,3 +19,4 @@
 
 
 效果如图：
+![Alt text](/path/to/img.jpg)
